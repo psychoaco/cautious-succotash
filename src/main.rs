@@ -7,12 +7,6 @@ fn main() {
         .run();
 }
 
-
-fn hello_world()
-{
-    println!("Hello World");
-}
-
 struct Person;
 
 struct Name(String);
